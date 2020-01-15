@@ -1,4 +1,4 @@
-# Repository to illustrate Markdown and its syntax.
+# Repository for illustrating Markdown and its syntax.
 A few MD files to illustrate the power of Markdown.
 
 Created by Karen Sawrey for learning purposes.
